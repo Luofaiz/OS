@@ -37,6 +37,10 @@
 
 建议系统存储空间40G+，5个文件夹对应5个题目
 
+CentOS7镜像：https://vault.centos.org/7.9.2009/isos/x86_64/
+
+4.20.2内核：wget https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.20.2.tar.xz
+
 切换阿里源教程：https://developer.aliyun.com/article/1414820
 
 CentOS7联网教程：https://blog.csdn.net/lxyoucan/article/details/109289258
